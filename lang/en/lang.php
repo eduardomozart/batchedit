@@ -29,7 +29,7 @@ $lang['war_matchfail'] = 'Failed to apply match {1}.';
 $lang['war_searchlimit'] = 'The search was interrupted after reaching maximal number of matches.';
 $lang['war_timeout'] = 'The operation was interrupted because it is taking too much time.';
 $lang['war_cancelled'] = 'The operation was interrupted on user\'s request.';
-$lang['war_nosummary'] = 'The edit summary was not provided. Do you want to proceed witout it?';
+$lang['war_nosummary'] = 'The edit summary was not provided. Do you want to proceed without it?';
 
 $lang['msg_error'] = '<b>Error:</b> {1}';
 $lang['msg_warning'] = '<b>Warning:</b> {1}';
